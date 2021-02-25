@@ -1,0 +1,18 @@
+#id-output {
+  font-family: cursive;
+}
+
+#id-side {
+  font-size: 90%;
+  font-family: -apple-system, BlinkMacSystemFont, Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+}
+
+#id-output {
+  font-size: 110%;
+  font-family: cursive;
+}
+
+.header {
+  text-align: center;
+  font-family: Cambria, Cochin, Georgia, Times, serif;
+}
