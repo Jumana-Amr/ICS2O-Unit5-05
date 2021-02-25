@@ -1,15 +1,11 @@
 #id-output {
   font-family: cursive;
+  font-size: 110%;
 }
 
 #id-side {
   font-size: 90%;
   font-family: -apple-system, BlinkMacSystemFont, Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
-}
-
-#id-output {
-  font-size: 110%;
-  font-family: cursive;
 }
 
 .header {
